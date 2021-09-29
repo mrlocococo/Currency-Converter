@@ -1,4 +1,4 @@
-gipackage com.example.gitbitch;
+package com.example.gitbitch;
 
 import androidx.appcompat.app.AppCompatActivity;
 
